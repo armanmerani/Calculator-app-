@@ -1,0 +1,16 @@
+input[type="button"]
+{
+border-radius: 10px;
+background-color:darkcyan;
+color: black;
+border-color:darkcyan ;
+width:100%;
+}
+input[type="text"]
+{
+border-radius: 10px;
+text-align: right;
+background-color:white;
+border-color: black ;
+width:100%
+}
